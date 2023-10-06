@@ -1,4 +1,4 @@
-# Humans Uptime Checker bot
+# Zetachain Uptime Checker bot
 
 Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to humans mainnet network as soons as it will alive!
 
@@ -75,7 +75,7 @@ It's just super convenient:
 *Auto-reporting bug/errors mechanism
 
 ### how to add checker to your validator:
-Start your bot in your telegram account https://t.me/HumansUpTime_bot
+Start your bot in your telegram account https://t.me/ZetaChainUpTime_bot
 
 Then you can add validator checker through create checker button. 
  - This will make the bot check your validator for missing blocks. 
